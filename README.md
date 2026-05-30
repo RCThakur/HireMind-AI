@@ -110,15 +110,6 @@ npm run dev
 - AI insights page
 - Theme toggle
 
-### Backend
-
-- Auth routes
-- User model
-- Job model
-- Saved jobs API
-- AI insights API
-- Protected routes with JWT
-
 ## Example Use Case
 
 A user visits HireMind AI, searches for React or MERN jobs, filters the results, saves interesting roles, and checks AI-powered suggestions to understand which skills to improve before applying.
